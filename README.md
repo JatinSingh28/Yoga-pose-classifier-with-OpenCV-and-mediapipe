@@ -38,5 +38,4 @@ The software components used in a yoga pose classifier include programming langu
 
 The hardware components may include a camera or a video capture device, a CPU or GPU for processing the input data, and a display device for showing the recognized yoga pose. 
 
-
-
+<a href="https://drive.google.com/file/d/1U89F7vnRWnMBBbOTkj0CCNZWnuAg86Ob/view?usp=sharing" target="_blank">Drive link of images</a>
