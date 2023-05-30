@@ -1,0 +1,1 @@
+{"0": "chair", "1": "cobra", "2": "dog", "3": "no_pose", "4": "shoudler_stand", "5": "traingle", "6": "tree", "7": "warrior"}
