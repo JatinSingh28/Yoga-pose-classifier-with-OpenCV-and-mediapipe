@@ -1,1 +1,1 @@
-{"0": "chair", "1": "cobra", "2": "dog", "3": "no_pose", "4": "shoudler_stand", "5": "traingle", "6": "tree", "7": "warrior"}
+{"0": "chair", "5": "traingle", "8": "warrior Balanced", "6": "tree", "4": "shoudler_stand", "1": "cobra", "2": "dog", "7": "warrior", "3": "no_pose"}
